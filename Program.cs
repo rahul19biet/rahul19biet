@@ -6,7 +6,7 @@ namespace TypeScript
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! we are here");
+            Console.WriteLine("Hello World! we are here, Joyi is pagal");
         }
     }
 }
